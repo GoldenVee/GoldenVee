@@ -7,7 +7,7 @@ My most recent experience involves AI gaming, client-based development, and owni
 
 <br/>
 
-<strong>My stacks include:</strong> React, JavaScript/Typescript, Node.js, Next.js, Graphql, Postgresql, React Native, Ruby on Rails, Flutter, & Angular 
+<strong> My stacks include: </strong> React, JavaScript/Typescript, Node.js, Next.js, Graphql, Postgresql, React Native, Ruby on Rails, Flutter, & Angular 
 
 <br/>
 
